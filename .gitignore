@@ -1,0 +1,33 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments / installs
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Node (research JS tools)
+node_modules/
+
+# Media & collected outputs (keep the repo lean)
+*.mp4
+*.webm
+*.mov
+outputs/
+accounts/
+live-videos/
+downloaded/
+
+# Downloaded proprietary bundles — see research/README.md
+webmssdk_*.js
+
+# Secrets & local config
+.env
+.env.*
