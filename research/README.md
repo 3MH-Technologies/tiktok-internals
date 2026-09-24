@@ -34,3 +34,7 @@ node --input-type=module -e "
 These findings document publicly observable behaviour and Google-able results.
 Use them for education, detection, and defense. Mass scraping and signature
 forgery against TikTok violate its Terms of Service.
+
+---
+
+**3MH TECHNOLOGIES** · <https://3mh.pages.dev/> · <https://t.me/j49_c>

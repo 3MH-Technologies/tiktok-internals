@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 license-files = ["LICENSE"]
-authors = [{ name = "3MH-Technologies" }]
+authors = [{ name = "3MH TECHNOLOGIES" }]
 keywords = [
     "tiktok", "research", "api", "reverse-engineering",
     "x-gnarly", "x-bogus", "signature", "osint",
@@ -32,6 +32,10 @@ dependencies = []
 
 [project.scripts]
 tiktok-tools = "tiktok_tools.cli:main"
+
+[project.urls]
+Homepage = "https://3mh.pages.dev/"
+Telegram = "https://t.me/j49_c"
 
 [tool.setuptools.packages.find]
 where = ["src"]

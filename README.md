@@ -115,6 +115,13 @@ python -m pytest -q        # all tests are offline
 - **Testing**: `tests/` exercise pure logic only — no network calls, so CI is deterministic.
 - **PRs**: please keep changes dependency-free unless the design truly needs it.
 
+## Credits
+
+**3MH TECHNOLOGIES** — researched, engineered, and verified everything in this repository.
+
+- 🌐 Website: <https://3mh.pages.dev/>
+- 💬 Telegram: <https://t.me/j49_c>
+
 ## License
 
 MIT — see [LICENSE](LICENSE). The research report and analysis scripts are published for educational purposes; trademarked product names belong to their respective owners.
